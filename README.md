@@ -15,9 +15,7 @@ How to run:
 
 2) When .class files are made, type `java MafiaGame`.
 
-
-![m2](https://user-images.githubusercontent.com/92050925/179231835-891b4b7c-b9f6-4dd5-b456-c52cd7a97563.png)
-
+![m2](https://user-images.githubusercontent.com/92050925/179234075-354b5665-7400-4c77-ae29-0952e83c4d1e.png)
 
 3) Type the input (there is also a zip file named testcase which contains a simple test with it's result).
 
