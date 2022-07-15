@@ -7,4 +7,6 @@ There is an abstract class named Player and other classes such as Doctor, Mafia,
 
 Details of the assigment are noted in the pdf file included in the repository.
 
-To run the code:
+How to run:
+
+Simply type `make`
