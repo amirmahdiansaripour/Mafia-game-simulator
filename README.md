@@ -11,11 +11,7 @@ How to run:
 
 1) Simply type `make`.
 
-
-x-special/nautilus-clipboard
-copy
-file:///home/amirmahdi/Desktop/AP_project/temp/m1.png
-
+![m1](https://user-images.githubusercontent.com/92050925/179233513-017503cb-3492-43f8-82cb-3e4e7c07561b.png)
 
 2) When .class files are made, type `java MafiaGame`.
 
