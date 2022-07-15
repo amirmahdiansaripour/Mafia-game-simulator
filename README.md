@@ -12,7 +12,7 @@ How to run:
 1) Simply type `make`.
 
 
-![m1](https://user-images.githubusercontent.com/92050925/179231720-aeaeb71c-3970-4f21-8a71-645cd4a88beb.png =250x250)
+![m1](https://user-images.githubusercontent.com/92050925/179231720-aeaeb71c-3970-4f21-8a71-645cd4a88beb.png | width=100)
 
 
 2) When .class files are made, type `java MafiaGame`.
