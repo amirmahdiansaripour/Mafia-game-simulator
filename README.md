@@ -11,9 +11,18 @@ How to run:
 
 1) Simply type `make`.
 
+
+![m1](https://user-images.githubusercontent.com/92050925/179231720-aeaeb71c-3970-4f21-8a71-645cd4a88beb.png)
+
+
 2) When .class files are made, type `java MafiaGame`.
+
+
+![m2](https://user-images.githubusercontent.com/92050925/179231835-891b4b7c-b9f6-4dd5-b456-c52cd7a97563.png)
+
 
 3) Type the input (there is also a zip file named testcase which contains a simple test with it's result).
 
 
+![m3](https://user-images.githubusercontent.com/92050925/179231921-9b6920fc-df0a-45dc-a25b-84d0ea5bcfcc.png)
 
