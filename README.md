@@ -19,6 +19,9 @@ How to run:
 
 3) Type the input (there is also a zip file named testcase which contains a simple test with it's result).
 
+![m3](https://user-images.githubusercontent.com/92050925/179235021-ffd9e2d1-d635-4c0b-9053-4242e17ce929.png)
 
-![m3](https://user-images.githubusercontent.com/92050925/179231921-9b6920fc-df0a-45dc-a25b-84d0ea5bcfcc.png)
 
+At last, I would like to thank my course lecturer, Prof.Khosravi, who explained the concepts of the lesson greatly.
+
+https://github.com/ramtung
