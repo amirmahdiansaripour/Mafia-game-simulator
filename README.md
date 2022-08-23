@@ -17,7 +17,7 @@ How to run:
 
 ![m2](https://user-images.githubusercontent.com/92050925/179234075-354b5665-7400-4c77-ae29-0952e83c4d1e.png)
 
-3) Type the input (there is also a zip file named testcase which contains a simple test with it's result).
+3) Type the input (there is also a zip file named testcase which contains a simple test with its result).
 
 ![m3](https://user-images.githubusercontent.com/92050925/179235021-ffd9e2d1-d635-4c0b-9053-4242e17ce929.png)
 
