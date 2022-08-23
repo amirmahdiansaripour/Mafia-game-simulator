@@ -3,7 +3,7 @@ A mafia game simulator in Java
 
 This assignment is about inheritance and polymorphism concepts which I was taught in my advanced programming course (fall 2020).
 
-There is an abstract class named Player and other classes such as Doctor, Mafia, Villager, etc., are inhereted from that; and of course there are some abstract methods implemented by the childs. 
+There is an abstract class named Player and other classes such as Doctor, Mafia, Villager, are inhereted from that; and the abstract methods are implemented by the childs. 
 
 Details of the assigment are noted in the pdf file included in the repository.
 
@@ -22,6 +22,6 @@ How to run:
 ![m3](https://user-images.githubusercontent.com/92050925/179235021-ffd9e2d1-d635-4c0b-9053-4242e17ce929.png)
 
 
-At last, I would like to thank my course lecturer, Prof.Khosravi, who explained the concepts of the lesson greatly.
+At last, I would like to thank my course lecturer, Prof.Khosravi, who explained the course's materials perfectly.
 
 https://github.com/ramtung
