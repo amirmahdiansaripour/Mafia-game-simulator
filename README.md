@@ -21,6 +21,6 @@ How to run:
 ![m3](https://user-images.githubusercontent.com/92050925/179235021-ffd9e2d1-d635-4c0b-9053-4242e17ce929.png)
 
 
-At last, I would like to thank my course lecturer, Prof.Khosravi, who explained the course's materials perfectly.
+I would like to thank the course professor, Prof.Khosravi, who explained the course concepts perfectly.
 
 https://github.com/ramtung
